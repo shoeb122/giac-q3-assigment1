@@ -43,7 +43,23 @@ elif x == 5:
 else:
     ("less than 5")
 
+#false 
 
-    #there are so many special keywords in python
-    # we will learn them in upcoming classes
-    
+x =False
+print(x)
+
+#none
+
+x = None
+print(x)
+
+# true
+x = True
+print(x)
+
+# and
+
+print( True and False)
+
+#or
+print(True or False)
